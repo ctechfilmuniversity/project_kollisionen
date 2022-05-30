@@ -2,6 +2,9 @@
 
 * [Projektbeschreibung](#projektbeschreibung)
 * [Dokumentation](#dokumentation)
+  * [Web Theremin](#web-theremin)
+  * [Grafische Formeln](#grafische-formeln)
+  * [Schnittstellen zu Infovis und VR](#schnittstellen-infovis-vr)
 * [Publikationen](#publikationen)
 
 ## Projektbeschreibung
@@ -23,10 +26,20 @@ Für die Zusammenarbeit an dem Projekt wurden vor allem **miro** und **github** 
 
 ![Image](./img/miroboard.jpg)
 
+### Web-Theremin
+
+### Grafische-Formeln
+
+### Schnittstellen-Infovis-VR
+
 ## Publikationen
 
-- [Journal for Interactive Media](https://www.degruyter.com/document/doi/10.1515/icom-2022-0007/html).
+The Virtual Theremin: Designing an Interactive Digital Music Instrument for Film Scene Scoring - Journal for Interactive Media
+https://doi.org/10.1515/icom-2022-0007
+
 <img src="https://www.degruyter.com/document/cover/journal_key/ICOM/product_pages" width="30%">
+
+
 
 ## das können wir am ende löschen
 ### Welcome to GitHub Pages
