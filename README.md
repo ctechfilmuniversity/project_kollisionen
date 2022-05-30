@@ -43,10 +43,8 @@ Das Web-Theremin hat sich durch mehrere User Interface Tests immer weiterentwick
 ### Grafische-Formeln
 
 #### Das Zusammenspiel zwischen Bild und Ton 
-```markdown
-
-“[Der Komponist] muss die Montagebewegung sowohl über das System aller montierten Teile als auch die Bewegung innerhalb jeder Einstellung erfassen und diese Bewegung dann zur Grundlage seiner bildlich-musikalischen Komposition machen” (Eisenstein - die Vertikalmontage p. 259-300)
-```
+> _"[Der Komponist] muss die Montagebewegung sowohl über das System aller montierten Teile als auch die Bewegung innerhalb jeder Einstellung erfassen und diese Bewegung dann zur Grundlage seiner bildlich-musikalischen Komposition machen”_ 
+<sub>(Eisenstein - die Vertikalmontage p. 259-300)</sub>
 
 Eisenstein hatte einen hohen Anspruch an dem Zusammenspiel zwischen Bild und Ton. Ein Thema, welches ihn viel beschäftigte,  war die Entstehung von Bild auf Basis der Musik und umgekehrt.
 
@@ -72,19 +70,18 @@ Diese generierten grafischen Elemente dienen anschließend als Impuls für Handb
 
 Quellen: Eisenstein, die Vertikalmontage S. 259-300, Eisenstein on Paper S. 166/167
 
-```
-"In blue ink, Eisenstein drew the Battle on the Ice: moments from the fight between the Teutonic Knights and the warriors of Alexander Nevsky. In red pencil, he added abstract geometrical figures, which, however, sometimes clearly recalled horses. But these were not sketches for the film, whether in style or in meaning. They can be defined as ‘graphic formulae’ for the audiovisual combinations in the cinema: the blue standing for the image and the red for the music." (Eisenstein on Paper p. 166/167)
-```
+>_"In blue ink, Eisenstein drew the Battle on the Ice: moments from the fight between the Teutonic Knights and the warriors of Alexander Nevsky. In red pencil, he added abstract geometrical figures, which, however, sometimes clearly recalled horses. But these were not sketches for the film, whether in style or in meaning. They can be defined as ‘graphic formulae’ for the audiovisual combinations in the cinema: the blue standing for the image and the red for the music."_ 
+<sub> (Eisenstein on Paper p. 166/167)</sub>
 
 ![interaction](./img/drawings_0.jpg)
 
 ### Tests
 
-<img src="./img/drawings_4.jpg" width="40%"> <img src="./img/drawings_6.jpg" width="40%">
+<img src="./img/drawings_4.jpg" width="50%"><img src="./img/drawings_6.jpg" width="50%">
 
-<img src="./img/drawings_2.jpg" width="80%">
+<img src="./img/drawings_2.jpg" width="100%">
 
-<img src="./img/drawings_5.jpg" width="40%"> <img src="./img/drawings_1.jpg" width="40%">
+<img src="./img/drawings_5.jpg" width="50%"><img src="./img/drawings_1.jpg" width="50%">
 
 
 
