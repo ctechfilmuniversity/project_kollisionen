@@ -35,12 +35,12 @@ Das Web-Theremin ist eine digitales Instrument zur Begleitung von Eisensteins Fi
 
 ![theremin](./img/web_theremin.jpg)
 
-Das Web-Theremin hat sich durch mehrere User Interface Tests immer weiterentwickelt. Zu Beginn war das Theremin noch in einer 3D Web-App. 
+Das Web-Theremin hat sich durch mehrere User Interface Tests weiterentwickelt. Zu Beginn war das Theremin noch in einer 3D Web-App. 
 
 ![interaction](./img/interaction.gif)
 
 
-### Grafische-Formeln
+### Grafische-Formeln - Konzept
 
 #### Das Zusammenspiel zwischen Bild und Ton 
 > _"[Der Komponist] muss die Montagebewegung sowohl über das System aller montierten Teile als auch die Bewegung innerhalb jeder Einstellung erfassen und diese Bewegung dann zur Grundlage seiner bildlich-musikalischen Komposition machen”_ 
@@ -68,7 +68,7 @@ Aus dem Film soll aus jeder Einstellung eine abstraktes grafisches Element gener
 
 Diese generierten grafischen Elemente dienen anschließend als Impuls für Handbewegungen zum Spielen des Theremins. Somit knüpfen wir an Eisensteins Eisensteins Theorien zum Zusammenspiel zwischen Bild und Ton an.
 
-Quellen: Eisenstein, die Vertikalmontage S. 259-300, Eisenstein on Paper S. 166/167
+<sub>Quellen: Eisenstein, die Vertikalmontage S. 259-300, Eisenstein on Paper S. 166/167</sub>
 
 >_"In blue ink, Eisenstein drew the Battle on the Ice: moments from the fight between the Teutonic Knights and the warriors of Alexander Nevsky. In red pencil, he added abstract geometrical figures, which, however, sometimes clearly recalled horses. But these were not sketches for the film, whether in style or in meaning. They can be defined as ‘graphic formulae’ for the audiovisual combinations in the cinema: the blue standing for the image and the red for the music."_ 
 <sub> (Eisenstein on Paper p. 166/167)</sub>
@@ -76,6 +76,8 @@ Quellen: Eisenstein, die Vertikalmontage S. 259-300, Eisenstein on Paper S. 166/
 ![interaction](./img/drawings_0.jpg)
 
 ### Tests
+
+Leider hat die Zeit für weitere Tests und eine Implemenierung der grafischen Formeln in das Web-Theremin am Ende nicht gereicht. Hier sind Screenshots der durchgefzührten Tests mit openFrameworks.
 
 <img src="./img/drawings_4.jpg" width="100%">
 
