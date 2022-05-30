@@ -1,15 +1,15 @@
-# Kollisionen
+# Dokumentation
 
 ![Image](./img/verticalmontage.jpg)
 
 * [Projektbeschreibung](#projektbeschreibung)
-* [Dokumentation](#dokumentation)
+* [Implementierung](#implementierung)
   * [Web Theremin](#web-theremin)
   * [Grafische Formeln](#grafische-formeln)
   * [Schnittstellen zu Infovis und VR](#schnittstellen-infovis-vr)
 * [Publikationen](#publikationen)
 
-## Projektbeschreibung
+## Projektbeschreibung 
 
 Ziel des Teilbereichs 3D-Sound war es, das Potenzial von 3D-Sound für die nichtlineare Narration komplexer Datenbestände in Form interaktiver VR- und InfoVis-Interfaces zu erforschen. Zu Beginn des Arbeitsprozesses ging es um eine Kontextualisierung des Arbeitsbereichs 3D-Sound in Bezug auf die Bereiche VR und InfoVis und das Erstellen einer Roadmap. Schwerpunkt der Arbeit war zunächst die Recherche von technischen Möglichkeiten, 3D-Sound einerseits als Teil einer eigenständigen Web-Experience zu etablieren und andererseits als Medienbrücke in VR und InfoVis zu integrieren. Der Einsatz des 3D-Sounds als Medienbrücke zwischen VR und InfoVis wurde zunächst über den Anwendungskontext adressiert. In diesem Zusammenhang  wurden Möglichkeiten der interaktiven prozeduralen Soundgenerierung sowie der Verwendung Sample-basierter Soundquellen identifiziert.
 
@@ -22,7 +22,7 @@ Nach iterativen Implementierung des Live Tools kam die Phase der Evaluation, Anp
 [Link zur Projektwebsite](https://eisensteinshouse.projekte-filmuni.de/)
 ![projektwebsite](./img/projektwebsite.jpg)
 
-## Dokumentation
+## Implementierung
 
 Für die Zusammenarbeit an dem Projekt wurden vor allem **miro** und **github** verwendet. Auf diversen miro boards wurden unter anderem Ideen gesammelt, Brainstorming Workshops durchgeführt, Rechercheergebnisse aufgelistet und Systemdiagramme erstellt.
 
@@ -30,7 +30,64 @@ Für die Zusammenarbeit an dem Projekt wurden vor allem **miro** und **github** 
 
 ### Web-Theremin
 
+Das Web-Theremin ist eine digitales Instrument zur Begleitung von Eisensteins Filmen. Das Theremin lässt sich über Gesten mit beiden Händen steuern. Es gibt verschiedene Sounds und Effekte zum experimentieren.
+[Link zum Theremin](https://ctechfilmuniversity.github.io/eisenstein-theremin-app/)
+
+![theremin](./img/web_theremin.jpg)
+
+Das Web-Theremin hat sich durch mehrere User Interface Tests immer weiterentwickelt. Zu Beginn war das Theremin noch in einer 3D Web-App. 
+
+![interaction](./img/interaction.gif)
+
+
 ### Grafische-Formeln
+
+#### Das Zusammenspiel zwischen Bild und Ton 
+```markdown
+
+“[Der Komponist] muss die Montagebewegung sowohl über das System aller montierten Teile als auch die Bewegung innerhalb jeder Einstellung erfassen und diese Bewegung dann zur Grundlage seiner bildlich-musikalischen Komposition machen” (Eisenstein - die Vertikalmontage p. 259-300)
+```
+
+Eisenstein hatte einen hohen Anspruch an dem Zusammenspiel zwischen Bild und Ton. Ein Thema, welches ihn viel beschäftigte,  war die Entstehung von Bild auf Basis der Musik und umgekehrt.
+
+So schrieb er zum Übergang von Ton zu Bild, dass die Bewegung eines Musikabschnitts erfasst werden muss, um dann die Spur dieser Bewegung, also ihre Linie oder Form, zur Grundlage jener bildlichen Komposition zunehmen. Dadurch entstehe eine Korrespondenz zwischen der Musik und dem Bild.
+
+Umgedreht ist es die Aufgabe der Komponist*innen unter anderem folgende Eigenschaften der Szene zur Grundlage der bildlich-musikalischen Komposition zu machen:
+- die Montagebewegung zwischen verschiedener Einstellungen
+- Helligkeits- und Farbschattierungen der Bildkomposition
+- visuelles Spiel zwischen figürlichen Umrissen und Raum
+- Rhythmus der Einstellung
+
+Eisenstein berichtet von einer verallgemeinerten plastischen Verkörperung der Grundzüge jenes Bildes, durch das sich das Thema des Films offenbart.
+
+Zusätzlich fertigte Eisenstein Zeichnungen an, die das Zusammenspiel von Bild und Ton darstellen. Er erweiterte Zeichnungen von Filmszenen mit abstrakten geometrischen Formen, welche als "grafische Formeln" für die audiovisuelle Zusammenführung dienen. Blau steht für das Bild und rot steht für die Musik.
+
+#### Generierung von grafischen Formeln zur Filmmusik-Komposition
+
+Basierend auf Eisensteins Theorien wollen wir unser digitales Theremin um die genannten abstrakten Zeichnungen erweitern.
+
+Aus dem Film soll aus jeder Einstellung eine abstraktes grafisches Element generiert werden. Dafür werden die Sequenzen in zwei Dimensionen analysiert. Im ersten Teil wird die visuelle Komplexität des Bildes untersucht, wie z.B. die Helligkeits- und Farbschattierungen sowie Kantendetektion. In der zweiten Dimension wird die Bewegung einer Einstellung analysiert. Dazu gehören Parameter wie Geschwindigkeit und Montagerhythmus.
+
+Diese generierten grafischen Elemente dienen anschließend als Impuls für Handbewegungen zum Spielen des Theremins. Somit knüpfen wir an Eisensteins Eisensteins Theorien zum Zusammenspiel zwischen Bild und Ton an.
+
+Quellen: Eisenstein, die Vertikalmontage S. 259-300, Eisenstein on Paper S. 166/167
+
+```
+"In blue ink, Eisenstein drew the Battle on the Ice: moments from the fight between the Teutonic Knights and the warriors of Alexander Nevsky. In red pencil, he added abstract geometrical figures, which, however, sometimes clearly recalled horses. But these were not sketches for the film, whether in style or in meaning. They can be defined as ‘graphic formulae’ for the audiovisual combinations in the cinema: the blue standing for the image and the red for the music." (Eisenstein on Paper p. 166/167)
+```
+
+![interaction](./img/drawings_0.jpg)
+
+### Tests
+
+<img src="./img/drawings_4.jpg" width="40%"> <img src="./img/drawings_6.jpg" width="40%">
+
+<img src="./img/drawings_2.jpg" width="80%">
+
+<img src="./img/drawings_5.jpg" width="40%"> <img src="./img/drawings_1.jpg" width="40%">
+
+
+
 
 ### Schnittstellen-Infovis-VR
 
