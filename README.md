@@ -1,5 +1,7 @@
 # Kollisionen
 
+![Image](./img/verticalmontage.jpg)
+
 * [Projektbeschreibung](#projektbeschreibung)
 * [Dokumentation](#dokumentation)
   * [Web Theremin](#web-theremin)
