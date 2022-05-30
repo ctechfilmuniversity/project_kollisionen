@@ -82,7 +82,9 @@ Diese generierten grafischen Elemente dienen anschließend als Impuls für Handb
 
 ### Tests
 
-Leider hat die Zeit für weitere Tests und eine Implemenierung der grafischen Formeln in das Web-Theremin am Ende nicht gereicht. Hier sind Screenshots der durchgefzührten Tests mit openFrameworks.
+Leider hat die Zeit für weitere Tests und eine Implemenierung der grafischen Formeln in das Web-Theremin am Ende nicht gereicht. Die Tests können in [hier](https://github.com/aeschi/eisensteinDrawings) runtergeladen werden.
+
+#### Screenshots der durchgefzührten Tests mit openFrameworks:
 
 <img src="./img/drawings_4.jpg" width="100%">
 
