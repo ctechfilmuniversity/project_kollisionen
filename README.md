@@ -77,7 +77,9 @@ Quellen: Eisenstein, die Vertikalmontage S. 259-300, Eisenstein on Paper S. 166/
 
 ### Tests
 
-<img src="./img/drawings_4.jpg" width="50%"><img src="./img/drawings_6.jpg" width="50%">
+<img src="./img/drawings_4.jpg" width="100%">
+
+<img src="./img/drawings_6.jpg" width="100%">
 
 <img src="./img/drawings_2.jpg" width="100%">
 
