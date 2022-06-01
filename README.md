@@ -107,3 +107,4 @@ https://doi.org/10.1515/icom-2022-0007
 <img src="https://www.degruyter.com/document/cover/journal_key/ICOM/product_pages" width="30%">
 
 
+<sub>Die Dokumentation wurde geschrieben von:  <a href="https://www.filmuniversitaet.de/portrait/person/angela-brennecke">Prof. Dr.-Ing. Angela Brennecke</a>, Bela Usabaev, <a href="https://annaeschenbacher.com/">Anna Eschenbacher</a> und Lucas Frye. </sub>
