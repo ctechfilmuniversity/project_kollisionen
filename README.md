@@ -102,7 +102,8 @@ Leider hat die Zeit für weitere Tests und eine Implemenierung der grafischen Fo
 ## Publikationen
 
 The Virtual Theremin: Designing an Interactive Digital Music Instrument for Film Scene Scoring - Journal for Interactive Media
-https://doi.org/10.1515/icom-2022-0007
+
+<a href="https://doi.org/10.1515/icom-2022-0007">Link zum Journal</a>
 
 <img src="https://www.degruyter.com/document/cover/journal_key/ICOM/product_pages" width="30%">
 
