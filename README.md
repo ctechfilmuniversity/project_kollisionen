@@ -108,4 +108,4 @@ The Virtual Theremin: Designing an Interactive Digital Music Instrument for Film
 <img src="https://www.degruyter.com/document/cover/journal_key/ICOM/product_pages" width="30%">
 
 
-<sub>Die Dokumentation wurde geschrieben von:  <a href="https://www.filmuniversitaet.de/portrait/person/angela-brennecke">Prof. Dr.-Ing. Angela Brennecke</a>, Bela Usabaev, <a href="https://annaeschenbacher.com/">Anna Eschenbacher</a> und Lucas Frye. </sub>
+<sub>Verfasst von:  <a href="https://www.filmuniversitaet.de/portrait/person/angela-brennecke">Prof. Dr.-Ing. Angela Brennecke</a>, Bela Usabaev, <a href="https://annaeschenbacher.com/">Anna Eschenbacher</a> und Lucas Frye. </sub>
