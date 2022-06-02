@@ -125,7 +125,6 @@ Das digitale Musikinstrument is modular aufgebaut, und soll mit unterschiedliche
 
 Das Web-Theremin ist eine hybride Anwendung, da der Nutzer via Webcam Einfluss auf die Anwendungsfunktionen nehmen kann, und deren Sound-Verhalten dadurch bestimmt. 
 
-## KOLLISIONEN: 3D Sound
 
 ## Publikationen
 
