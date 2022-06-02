@@ -129,19 +129,12 @@ Das Web-Theremin ist eine hybride Anwendung, da der Nutzer via Webcam Einfluss a
 
 Leading melody for the scene from the General Line, composed by Fabian Zeidler:
 
- <audio controls>
-  <source src="./sounds/Theremin_Hauptstimme_ohne_Stille.wav" type="audio/wav">
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio> 
-
+![Theremin Film Music Leading Melody](./sounds/Theremin_Hauptstimme_ohne_Stille.wav)
 
 Example of the interactive granular synthesis of the leading melody using grain feedback delay:
 
- <audio controls>
-  <source src="./sounds/Audio_21-10-26_20-16-08.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio> 
+![Grain Feedback Delay Synthesis of Leading Melody](./sounds/Audio_21-10-26_20-16-08.mp3)
+
 
 ## Publikationen
 
