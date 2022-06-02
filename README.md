@@ -99,6 +99,16 @@ Leider hat die Zeit für weitere Tests und eine Implemenierung der grafischen Fo
 
 ### Schnittstellen-Infovis-VR
 
+Basierend auf der Recherche der Integrationsmöglichkeiten von Sound im Bereich InfoVis, und auf den recherchierten Design Patterns einer InfoVis-Sound Web-Experience, entstand die Idee den Sound des digitalen Instruments zur Vertonung der InfoVis-Datenstruktur zu verwenden, sodass die Soundalgorithmen des Web-Theremins zur Sound-Generierung während der Interaktion mit der InfoVis-Datenstruktur verwendet werden könnten. 
+
+Die schlussendliche Implementierung erfolgte angelehnt an die Idee von Musique Concrète, sodass die unterschiedlichen InfoVis-Kategorien extrahiert aus den Daten aus Eisensteins Leben, “Cinema”, “Theater”, “Biography”, “Teaching/Writing” und “Apartment”, jeweils einen eigenen Kategorie-Sound bekommen haben, welche dann durch die Interaktion mit der Datenstruktur auf der InfoVis-Webseite miteinander kombiniert während der Interaktion abgespielt werden.
+
+Als Schnittstelle zu VR wurde zunächst eine Web-3D-Version des Web-Theremins entwickelt, in Anlehnung an die Konzeption einer Theremin-VR-Erfahrung für den Eisenstein-VR-Erfahrung-Prototypen. Hier wurde eine klassische Thereminstimme sowie eine sphärische Granularsynthese-Stimme für das Theremin implementiert. Dies wurde sowohl in der Web-3D als auch in der VR-Version des Theremins verfolgt.
+
+Da die Narrations- und Interaktionsanforderungen einer VR-Erfahrung und einer Web-Anwendung sehr unterschiedlich sind, wurde das Web-Theremin im weiteren Projektverlauf im Hinblick auf einen Vertonungsworkflow hin entwickelt, sodass sowohl die typische Theremin-Interaktion, bloße Handbewegungen steuern die Soundparameter, als auch eine GUI-basierte Interaktion mit dem Sound möglich ist. 
+
+Das verbindende Element zwischen den einzelnen Projekt-Teilbereichen ist damit das Theremin als historisches und in der Lebens- und Schaffens-Biographie Eisensteins vorkommendes Artefakt bzw. Objekt, als auch dessen Klang und Interaktionsprinzip.
+
 ## Publikationen
 
 The Virtual Theremin: Designing an Interactive Digital Music Instrument for Film Scene Scoring - Journal for Interactive Media
