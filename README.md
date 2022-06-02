@@ -129,11 +129,11 @@ Das Web-Theremin ist eine hybride Anwendung, da der Nutzer via Webcam Einfluss a
 
 Leading melody for the scene from the General Line, composed by Fabian Zeidler:
 
-![Theremin Film Music Leading Melody](https://soundcloud.com/test-test-599387065/theremin-hauptstimme-ohne?in=test-test-599387065/sets/web-theremin-beispiele/)
+[Theremin Film Music Leading Melody](https://soundcloud.com/test-test-599387065/theremin-hauptstimme-ohne?in=test-test-599387065/sets/web-theremin-beispiele/)
 
 Example of the interactive granular synthesis of the leading melody using grain feedback delay:
 
-![Grain Feedback Delay Synthesis of Leading Melody](https://soundcloud.com/test-test-599387065/grain-feedback-delay?in=test-test-599387065/sets/web-theremin-beispiele/)
+[Grain Feedback Delay Synthesis of Leading Melody](https://soundcloud.com/test-test-599387065/grain-feedback-delay?in=test-test-599387065/sets/web-theremin-beispiele/)
 
 
 ## Publikationen
