@@ -3,6 +3,7 @@
 ![Image](./img/verticalmontage.jpg)
 
 * [Projektbeschreibung](#projektbeschreibung)
+  * [KOLLISIONEN: 3D-Sound](#kollisionen-3d-sound)
 * [Implementierung](#implementierung)
   * [Web Theremin](#web-theremin)
   * [Grafische Formeln](#grafische-formeln)
@@ -21,6 +22,8 @@ Nach der Erforschung geeigneter Audioformate erfolgte eine Anwendungs- und Integ
 Auf Basis der Anwendungs- und Integrationsanalyse und der eingeschränkten technischen Möglichkeiten, eine direkte Schnittstelle zwischen Web-Anwendung und VR-Experience herzustellen, entschied sich das 3D-Sound-Team dazu, ein virtuelles Theremin zur Generierung von synthetischen Tönen zu entwickeln, welches als digitales Musikinstrument (DMI) interaktiv genutzt und zur spielerischen Auseinandersetzung mit Filmtonkomposition eingesetzt werden kann. Das virtuelle Theremin stellt somit einerseits eine Medienbrücke zwischen 3D-Sound und der VR-Erfahrung dar. Andererseits stellt es auf inhaltlicher Ebene eine direkte Verbindung zu Sergei Eisensteins Konzeption synthetischer Musik für seinen Film „Die Generallinie“ her. Zur Entwicklung und iterativen Implementierung des virtuellen Theremins  wurde ein erster prototypischer Entwurf (Mockup) erstellt. Dabei ging es unter anderem um die Analyse der Bedarfsanforderungen, Entwicklung und Ausgestaltung von einem geeigneten Graphical User Interface (GUI), der Gestenerkennung, der Interaktion der Soundeffekte und des Gesamtlayouts. Die Umsetzung des Mockups erfolgte mit verschiedenen Web-basierten Bibliotheken, u.a., Tone.js zur Audio- und Musikverarbeitung, ml5.js und PoseNet zur machine-learning-basierten Gestenerkennung und p5.js zur allgemeinen Interaktion und Benutzung. 
 
 Nach iterativen Implementierung des Live Tools kam die Phase der Evaluation, Anpassung und Weiterentwicklung der Web-Anwendung. Die Evaluation des digitalen Theremins erfolgte einerseits durch Testfragebögen und Evaluationsgesprächen mit anderen Teammitgliedern des Projekts. Andererseits wurde das Live-Tool auf der Konferenz „Kultur und Informatik“ der HTW Berlin präsentiert und diskutiert. Für die Veranstaltung wurde zudem ein wissenschaftliches Paper über das Live-Tool geschrieben – die Publikation des Papers erfolgte später im [Journal for Interactive Media](https://www.degruyter.com/document/doi/10.1515/icom-2022-0007/html).
+
+## KOLLISIONEN: 3D-Sound
 
 [Link zur Projektwebsite](https://eisensteinshouse.projekte-filmuni.de/)
 ![projektwebsite](./img/projektwebsite.jpg)
@@ -85,7 +88,7 @@ Diese generierten grafischen Elemente dienen anschließend als Impuls für Handb
 
 Leider hat die Zeit für weitere Tests und eine Implemenierung der grafischen Formeln in das Web-Theremin am Ende nicht gereicht. Die Tests können in [hier](https://github.com/aeschi/eisensteinDrawings) runtergeladen werden.
 
-#### Screenshots der durchgefzührten Tests mit openFrameworks:
+#### Screenshots der durchgeführten Tests mit openFrameworks:
 
 <img src="./img/drawings_4.jpg" width="100%">
 
@@ -112,15 +115,17 @@ Das verbindende Element zwischen den einzelnen Projekt-Teilbereichen ist damit d
 
 ### App-Architektur
 
-Das Web-Theremin ist als eine Web-Anwendung zur Begleitung einer Filmszene mit Sound bzw Filmmusik spezifieziert. Das grundlegende Design-Pattern der Web-Anwendung und des Sounds ist das Prinzip der Theremin-Interaktion. 
+Das Web-Theremin ist als eine Web-Anwendung zur Begleitung einer Filmszene mit Sound bzw Filmmusik spezifiziert. Das grundlegende Design-Pattern der Web-Anwendung und des Sounds ist das Prinzip der Theremin-Interaktion. 
 
 ![ux-pattern](./img/WebTheremin-Pattern.jpg)
 
-Das digitale Musiksintrument is modular aufgebaut, und soll mit unterschiedlichen Soundalgorithmen über die Theremin-Interaktion funktionieren können. Damit ist es ebenfalls möglich mit denselben Handbewegungen mehrere Sound-Stimmen gleichzeitig zu steuern. 
+Das digitale Musikinstrument is modular aufgebaut, und soll mit unterschiedlichen Soundalgorithmen über die Theremin-Interaktion funktionieren können. Damit ist es ebenfalls möglich mit denselben Handbewegungen mehrere Sound-Stimmen gleichzeitig zu steuern. 
 
 ![dmi](./img/skizze-web-theremin-engl.jpg)
 
-Das Web-Theremin ist eine hybride Anwendung, da der Nutzer via Webcam Einfluss auf die Anwendungsfunktionen nehmen kann, und dessen Sound-Verhalten dadurch bestimmt. 
+Das Web-Theremin ist eine hybride Anwendung, da der Nutzer via Webcam Einfluss auf die Anwendungsfunktionen nehmen kann, und deren Sound-Verhalten dadurch bestimmt. 
+
+## KOLLISIONEN: 3D Sound
 
 ## Publikationen
 
