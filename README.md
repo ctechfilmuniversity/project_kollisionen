@@ -7,6 +7,7 @@
   * [Web Theremin](#web-theremin)
   * [Grafische Formeln](#grafische-formeln)
   * [Schnittstellen zu Infovis und VR](#schnittstellen-infovis-vr)
+  * [App-Architektur] (#dmi-schema)
 * [Publikationen](#publikationen)
 
 ## Projektbeschreibung 
@@ -108,6 +109,18 @@ Als Schnittstelle zu VR wurde zunächst eine Web-3D-Version des Web-Theremins en
 Da die Narrations- und Interaktionsanforderungen einer VR-Erfahrung und einer Web-Anwendung sehr unterschiedlich sind, wurde das Web-Theremin im weiteren Projektverlauf im Hinblick auf einen Vertonungsworkflow hin entwickelt, sodass sowohl die typische Theremin-Interaktion, bloße Handbewegungen steuern die Soundparameter, als auch eine GUI-basierte Interaktion mit dem Sound möglich ist. 
 
 Das verbindende Element zwischen den einzelnen Projekt-Teilbereichen ist damit das Theremin als historisches und in der Lebens- und Schaffens-Biographie Eisensteins vorkommendes Artefakt bzw. Objekt, als auch dessen Klang und Interaktionsprinzip.
+
+### App-Architektur
+
+Das Web-Theremin ist als eine Web-Anwendung zur Begleitung einer Filmszene mit Sound bzw Filmmusik spezifieziert. Das grundlegende Design-Pattern der Web-Anwendung und des Sounds ist das Prinzip der Theremin-Interaktion. 
+
+![ux-pattern](./img/WebTheremin-Pattern.jpg)
+
+Das digitale Musiksintrument is modular aufgebaut, und soll mit unterschiedlichen Soundalgorithmen über die Theremin-Interaktion funktionieren können. Damit ist es ebenfalls möglich mit denselben Handbewegungen mehrere Sound-Stimmen gleichzeitig zu steuern. 
+
+![dmi](./img/skizze-web-theremin-engl.jpg)
+
+Das Web-Theremin ist eine hybride Anwendung, da der Nutzer via Webcam Einfluss auf die Anwendungsfunktionen nehmen kann, und dessen Sound-Verhalten dadurch bestimmt. 
 
 ## Publikationen
 
