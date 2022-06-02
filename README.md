@@ -125,6 +125,23 @@ Das digitale Musikinstrument is modular aufgebaut, und soll mit unterschiedliche
 
 Das Web-Theremin ist eine hybride Anwendung, da der Nutzer via Webcam Einfluss auf die Anwendungsfunktionen nehmen kann, und deren Sound-Verhalten dadurch bestimmt. 
 
+## Klangbeispiele aus dem Web Theremin
+
+Leading melody for the scene from the General Line, composed by Fabian Zeidler:
+
+ <audio controls>
+  <source src="./sounds/Theremin_Hauptstimme_ohne_Stille.wav" type="audio/wav">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+
+
+Example of the interactive granular synthesis of the leading melody using grain feedback delay:
+
+ <audio controls>
+  <source src="./sounds/Audio_21-10-26_20-16-08.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
 
 ## Publikationen
 
